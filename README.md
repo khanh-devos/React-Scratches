@@ -1,4 +1,4 @@
-# Math-magics-k
+# React scratches
 
 <a name="readme-top"></a>
 
@@ -8,7 +8,7 @@
   - [🛠 Built With](#built-with)
     - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
-  - [🚀 Live Demo & Video](#live-demo)
+  <!-- - [🚀 Live Demo & Video](#live-demo) -->
 - [💻 Getting Started ](#-getting-started-)
   - [Prerequisites](#prerequisites)
   - [Setup](#setup)
@@ -29,7 +29,7 @@
 
 # 📖 [Math Magics] <a name="about-project"></a>
 
-**Math magics project** is a website for all fans of mathematics. It is a Single Page App (SPA) that allows users to: Make simple calculations. Read a random math-related quote. In this project we will learn how to use react framework.
+**React scratches** is a website for review all basic concepts and knowledge about React like Forms, State, Props, Router, Local Storage...
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -46,18 +46,18 @@
 
 ### Key Features <a name="key-features"></a>
 
-- **Make simple calculations**
-- **Read a random math-related quote.**
+- **Form to add a new todo**
+- **show a list of todos**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- LIVE DEMO -->
 
-## 🚀 Live Demo <a name="live-demo"></a>
+<!-- ## 🚀 Live Demo <a name="live-demo"></a>
 
 - [Live Demo Link](https://khanh-devos.github.io/math-magics-k/)
 
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
+<p align="right">(<a href="#readme-top">back to top</a>)</p> -->
 
 <!-- GETTING STARTED -->
 
@@ -79,7 +79,7 @@ In order to run this project you need:
 
 Clone this repository to your desired folder:
 
-- git clone https://github.com/khanh-devos/math-magics-k.git
+- git clone https://github.com/khanh-devos/React-Scratches.git
 
 ### Install
 
@@ -167,7 +167,7 @@ To run tests, run the following command:
 
 Contributions, issues, and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/khanh-devos/math-magics-k/issues).
+Feel free to check the [issues page](https://github.com/khanh-devos/React-Scratches/issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
