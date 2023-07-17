@@ -8,8 +8,6 @@ import TodoItem from './TodoItem';
 const TodosLogic = () => {
   const [todos, setTodos] = useState([]);
 
-  console.log(todos);
-
   return (
     <div className="logic">
       <InputTodo setTodos={setTodos} />
